@@ -26,8 +26,11 @@ To develop an interactive dashboard that utilizes Business Intelligence Excel, P
 The dataset organized into for key tables: Customers, Surveys, Support Tickets and Service Usage.
 
 Customers- CustomerID | Name | SubscriptionPlan | City | JoinDate
+
 Surveys- SurveyID | CustomerID | SurveyDate | SatisfactionScore | Feedback 
+
 Support Tickets- TicketID | CustomerID | TicketDate  | IssueType | Status | ResolutionTime (hours) 
+
 Service Usage- UsageID | CustomerID | DataUsage (GB) | CallDuration (mins) | LastUsageDate
 
 ---
