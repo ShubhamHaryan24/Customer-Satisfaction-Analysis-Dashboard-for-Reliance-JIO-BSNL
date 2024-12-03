@@ -47,6 +47,27 @@ Data Visualization report display below charts for the final interactive dashboa
 
 • Slicers • KPI • Funnel • Map • Pie chart • Donut chart • Line chart • Column chart • Treemap • Waterfall chart
 
+---
 
+**DAX measures used**
 
+1. Average Satisfaction Score
+   
+3. Total Number of Surveys
+4. Number of Resolved Support Tickets
+5. Average Resolution Time
+6. Customer Satisfaction Based on Subscription Plan
+7. Ticket Resolution Time for Network Issues
+8. Percentage of Resolved Tickets
 
+---
+
+**Insights**
+
+1) Customer Satisfaction Trends- Customers with issues related to signal strength and network issues tend to give lower satisfaction scores. For instance, surveys with feedback like "frequently dropped calls" or "poor signal strength" generally have low ratings (1 to 3). Customers with issues on billing queries also reported moderate satisfaction (around 5-6). Meanwhile, customers praising data plans or network quality generally provide higher satisfaction scores (8 to 10).
+
+2) Customer Service Performance- The resolution time for customer support queries plays a role in overall customer satisfaction. Tickets marked as unresolved often lead to low satisfaction scores in the surveys. It appears that unresolved issues have a direct correlation with low satisfaction scores, suggesting that faster issue resolution is key to improving customer experience.
+
+3) Impact of Survey Feedback on Service Improvement- Feedback points, such as frequently dropped calls, network issues, and billing confusion, appear frequently across both support tickets and surveys. This suggests recurring problems that need to be prioritized for service improvements. Addressing these issues could potentially boost customer satisfaction and reduce the volume of support tickets related to these problems.
+
+---
